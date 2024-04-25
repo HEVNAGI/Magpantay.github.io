@@ -1,2 +1,5 @@
 # Magpantay.github.io
-sample respiratory compilation for the subject
+MAGPANTAY, NINO JANDEL C.
+BSCS-3B
+ADVANCED MACHINE LEARNING
+CSSR 104
